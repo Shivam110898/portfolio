@@ -1,0 +1,14 @@
+# RewriteEngine on
+# RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
+# RewriteRule ^ /%1 [NC,L,R]
+
+# RewriteCond %{REQUEST_FILENAME}.php -f
+# RewriteRule ^ %{REQUEST_URI}.php [NC,L]
+
+# # REMOVE WWW & FORCE HTTPS
+# RewriteCond %{SERVER_PORT} !=443
+# RewriteRule ^(.*)$ https://bespokeboxx.co.uk/$1 [R=301,L]
+
+# # REMOVE TRAILING SLASH
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteRule ^(.*)/$ /$1 [L,R=301] 
