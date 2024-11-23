@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cinefy</string>
+    <string name="popular">Popular Movies</string>
+    <string name="top_rated">Top Rated Movies</string>
+    <string name="upcoming">Upcoming Movies</string>
+    <string name="latest">Latest Movies</string>
+    <string name="now_playing">Now Playing Movies</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
