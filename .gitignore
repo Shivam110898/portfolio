@@ -1,0 +1,7 @@
+**/bin/
+**/lib/
+**/.idea/
+**/vendor/
+**/datasets/
+**/venv/share/
+**/venv/etc/
