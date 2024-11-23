@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [Cricket Ball Tracking System](https://github.com/Shivam110898/portfolio/tree/main/Hawkeye)
 
-- 🌱 I’m currently learning **RUST and systems programming**
+- 🌱 I’m currently learning **Machine Learning and Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shivam110898/portfolio](https://github.com/Shivam110898/portfolio)
+
+- 📝 Check out my website built in Next.js and Tailwind [https://shivam-panday.vercel.app/](https://shivam-panday.vercel.app/)
 
 - 💬 Ask me about **React, React Native, PHP, Python**
 
 - 📫 How to reach me **shivampanday.sp@gmail.com**
-
-- 📄 Know about my experiences [https://shivam-panday.vercel.app/](https://shivam-panday.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
